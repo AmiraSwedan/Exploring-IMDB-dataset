@@ -1,4 +1,4 @@
-# Exploring-IMDP-dataset
+# Exploring-IMDB-dataset
 
 ## Data 
 This dataset was generated from The Movie Database API. This product uses the TMDb API but is not endorsed or certified by TMDb.
